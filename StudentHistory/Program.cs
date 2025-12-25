@@ -27,9 +27,9 @@ class Program
 
     static void Main(string[] args)
     {
-        Student student = new("McLOVIN", 25);
-        Student student2 = new("Alice", 18);
-        Student student3 = new("Lad", 12);
+        Student student = new("McLOVIN", 4);
+        Student student2 = new("Alice", 2);
+        Student student3 = new("Lad", 3);
 
         student2.Form = StudyForm.PartTime;
 
